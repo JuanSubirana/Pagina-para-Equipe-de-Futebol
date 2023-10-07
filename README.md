@@ -1,2 +1,2 @@
-# PaginaTime
- Exercicio pagina principal de fã clube de time
+# PaginaTimeDeFutebol
+ Exercicio pagina principal de fã clube.
